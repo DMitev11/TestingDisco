@@ -57,6 +57,11 @@
 				"Mac",
 				"Win64"
 			]
+		},
+		{
+			"Name": "SteamCorePro",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/459e1c72939b4ead8b5132187808a3e7"
 		}
 	],
 	"TargetPlatforms": [
