@@ -9,3 +9,6 @@ del /s /q /f *.pdb
 
 rem Clean up derived data cache
 rd /s /q "DerivedDataCache"
+rd /s /q "Intermediate"
+rd /s /q "Binaries"
+rd /s /q "Saved"
