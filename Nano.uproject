@@ -83,10 +83,6 @@
 		{
 			"Name": "OnlineSubsystemGoogle",
 			"Enabled": true
-		},
-		{
-			"Name": "OnlineSubsystemSteam",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
