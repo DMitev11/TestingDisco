@@ -9,7 +9,9 @@ public class NanoEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V4;
+		IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
 
-		ExtraModuleNames.AddRange( new string[] { "Nano" } );
+
+        ExtraModuleNames.AddRange( new string[] { "Nano" } );
 	}
 }
